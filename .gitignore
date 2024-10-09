@@ -1,0 +1,21 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+python/src/auth/auth_venv/
+python/src/converter/converter_venv/
+python/src/gateway/gateway_venv/
+python/src/notification/notification_venv/
+.env/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+transcript.txt
