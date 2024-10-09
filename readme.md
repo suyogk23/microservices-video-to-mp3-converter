@@ -70,7 +70,7 @@ The application follows a microservices architecture, where each service is inde
 
 # curl commands for testing
 
-> Get jwt token:
+- Get jwt token:
 ```
 curl --request POST \
   --url http://localhost-mp3converter.com/login \
@@ -78,7 +78,7 @@ curl --request POST \
 ```
 
 
-> Upload:
+- Upload:
 ```
 curl --request POST \
   --url http://localhost-mp3converter.com/upload \
@@ -88,12 +88,12 @@ curl --request POST \
 ```
 
 
-> Download:
-    ```
-    curl --request GET \
-    --url 'http://localhost-mp3converter.com/download?fid=6706af7defdd8973ea4fe3d1' \
-    --header 'Authorization: Bearer <jwt> 
-    ```
+- Download:
+```
+curl --request GET \
+--url 'http://localhost-mp3converter.com/download?fid=6706af7defdd8973ea4fe3d1' \
+--header 'Authorization: Bearer <jwt> 
+```
 
 # Container deployment in k9s:
 
