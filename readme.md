@@ -95,7 +95,7 @@ curl --request GET \
 --header 'Authorization: Bearer <jwt> 
 ```
 
-# Container deployment in k9s:
+# Container deployment:
 
 ![](images_readme/k9s.png)
 
