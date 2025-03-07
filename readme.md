@@ -40,7 +40,7 @@ The application follows a microservices architecture, where each service is inde
 
 ## Installation
 
-1. **Clone the Repository and then**
+1. **Clone the Repository and then:**
     - change dir:
     ```bash
     cd python/src
