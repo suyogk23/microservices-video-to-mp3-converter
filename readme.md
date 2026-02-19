@@ -110,3 +110,6 @@ curl --request GET \
 
 - uploading audio:
 ![](images_readme/audio.png)
+
+
+References: https://www.youtube.com/watch?v=hmkF77F9TLw&t=6776s
