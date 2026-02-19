@@ -108,7 +108,7 @@ curl --request GET \
 - uploading video:
 ![](images_readme/video.png)
 
-- uploading audio:
+- downloading audio:
 ![](images_readme/audio.png)
 
 
